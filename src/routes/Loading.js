@@ -76,7 +76,7 @@ function Loading({
               ? (
                 <div>
                   <p>
-                    O Pessoa Digital funciona melhor em um ambiente silencioso,
+                    A Pessoa Digital funciona melhor em um ambiente silencioso,
                     quando você está próximo ao microfone e a câmera ligada.
                   </p>
                   <p>
