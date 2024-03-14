@@ -4,7 +4,7 @@ import { useSelector } from 'react-redux';
 import styled from 'styled-components';
 import { Link, useLocation } from 'react-router-dom';
 import {
-  logo, logoAltText, transparentHeader, headerHeight, logoLink,
+  logo, logoAltText, headerHeight, logoLink,
 } from '../config';
 import Controls from './Controls';
 
