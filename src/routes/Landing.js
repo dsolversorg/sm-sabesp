@@ -24,13 +24,13 @@ function Landing({ className }) {
             <div className="col-12 col-lg-6">
               <div className="row" style={{ marginBottom: '9px' }}>
                 <div>
-                  <h1 className="fw-bol">Fale com a Júlia, especialista em Colonoscopia da Ferring</h1>
+                  <h1 className="fw-bol">Fale com a Yara, especialista em atendimento ao consumidor da Sabesp</h1>
                 </div>
               </div>
               <div className="row">
                 <div>
                   <h4 className="fw-light" style={{ marginBottom: '31px' }}>
-                    Faça perguntas para a nossa especialista hiper-realista
+                    Faça perguntas para a nossa Pessoa Digital Hiper-realista
                   </h4>
                 </div>
               </div>
@@ -89,7 +89,7 @@ function Landing({ className }) {
                     className="shadow btn primary-accent fs-3"
                     type="button"
                   >
-                    Converse com a Júlia
+                    Converse com a Yara
                   </Link>
                 </div>
               </div>

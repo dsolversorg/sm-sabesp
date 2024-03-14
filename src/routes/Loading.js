@@ -181,7 +181,7 @@ function Loading({
                         onClick={() => setPage(page + 1)}
                         style={{ backgroundColor: '#3C3C3C', border: '2px solid #3C3C3C' }}
                       >
-                        Next
+                        Próximo
                       </button>
                     )
                     : null
