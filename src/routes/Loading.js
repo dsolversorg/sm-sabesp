@@ -76,7 +76,7 @@ function Loading({
               ? (
                 <div>
                   <p>
-                    O Digital Person funciona melhor em um ambiente silencioso,
+                    O Pessoa Digital funciona melhor em um ambiente silencioso,
                     quando você está próximo ao microfone e a câmera ligada.
                   </p>
                   <p>
@@ -121,7 +121,7 @@ function Loading({
           </button>
         </div>
         <div className="mt-0 mb-2">
-          O Digital Person ouvirá tudo o que você disser.
+          O Pessoa Digital ouvirá tudo o que você disser.
           Outras opções, como digitar ou escolher suas respostas, também estão disponíveis.
         </div>
       </div>
