@@ -173,8 +173,8 @@ function Controls({
           <button
             type="button"
             className="control-icon"
-            aria-label="Alternar áudio"
-            data-tip="Alternar áudio"
+            aria-label="Ligar/desligar áudio"
+            data-tip="Ligar/desligar áudio"
             onClick={() => dispatch(setOutputMute({ isOutputMuted: !isOutputMuted }))}
           >
             {isOutputMuted ? (
@@ -202,8 +202,8 @@ function Controls({
           <button
             type="button"
             className="control-icon"
-            aria-label="Alternar Transcrição"
-            data-tip="Alternar Transcrição"
+            aria-label="Ligar/desligar Transcrição"
+            data-tip="Ligar/desligar Transcrição"
             onClick={toggleKeyboardInput}
             disabled={transcript.length <= 0}
           >
@@ -219,8 +219,8 @@ function Controls({
           <button
             type="button"
             className="control-icon"
-            aria-label="Alternar Microfone"
-            data-tip="Alternar Microfone"
+            aria-label="Ligar/desligar Microfone"
+            data-tip="Ligar/desligar Microfone"
             disabled={requestedMediaPerms.micDenied === true}
             onClick={() => dispatch(setMicOn({ micOn: !micOn }))}
           >
@@ -236,8 +236,8 @@ function Controls({
           <button
             type="button"
             className="control-icon"
-            aria-label="Alternar Câmera"
-            data-tip="Alternar Câmera"
+            aria-label="Ligar/desligar Câmera"
+            data-tip="Ligar/desligar Câmera"
             disabled={requestedMediaPerms.cameraDenied === true}
             onClick={() => dispatch(setCameraOn({ cameraOn: !cameraOn }))}
           >

@@ -48,13 +48,14 @@ export default styled(Header)`
   z-index: 20;
   top: 0;
   width: 100%;
-  background-color: ${transparentHeader ? 'none' : '#FFFFFF'};
+  background-color: #ffffff;
+  padding: 5px 20px;
 
   &>.row {
     height: ${headerHeight};
   }
   .logo {
-    margin-top: 20px;
+    margin-top: 0px;
 
     /* height constrain logo image */
     // height: calc(0.4 * ${headerHeight});
