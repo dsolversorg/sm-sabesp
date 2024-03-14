@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sm-sabesp/static/css/main.bc0e9a5e.css",
-    "main.js": "/sm-sabesp/static/js/main.03212461.js",
+    "main.js": "/sm-sabesp/static/js/main.1d7cced9.js",
     "static/js/27.5f967a78.chunk.js": "/sm-sabesp/static/js/27.5f967a78.chunk.js",
     "static/media/placeholder-headshot.png": "/sm-sabesp/static/media/placeholder-headshot.55458c989d349da5774b.png",
     "static/media/digital-solvers-logo.svg": "/sm-sabesp/static/media/digital-solvers-logo.29c267a2445b1948175e12331af9f667.svg",
@@ -12,6 +12,6 @@
   },
   "entrypoints": [
     "static/css/main.bc0e9a5e.css",
-    "static/js/main.03212461.js"
+    "static/js/main.1d7cced9.js"
   ]
 }
